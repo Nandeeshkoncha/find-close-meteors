@@ -5,3 +5,5 @@ code that finds the meteors
 
 This script requires python installed
 run find_meteors.py
+
+Hello
